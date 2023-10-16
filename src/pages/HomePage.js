@@ -21,7 +21,7 @@ const HomePage = () => {
   return (
     <div css={[HomePageStyle]}>
       <br></br>
-      <h3 className="title">Home Page nya belum siap...</h3>
+      <h3 className="title">Home Page nya belum dibuat...!</h3>
     </div>
   );
 };
