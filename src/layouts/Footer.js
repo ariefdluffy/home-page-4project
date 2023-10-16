@@ -32,7 +32,7 @@ const Footer = () => {
   return (
     <footer css={[footerStyle]}>
       <nav>
-        <div>{new Date().getFullYear()} &copy; Miftahularif</div>
+        <div>{new Date().getFullYear()} &copy; <a href="https://www.instagram.com/miftahularifhidayah/" rel="noopener noreferrer" target="_blank">Miftahularif</a></div>
         <div>
           <a href="https://github.com/ofnullable/react-spa-template" rel="noopener noreferrer" target="_blank">
             <GithubIcon css={iconStyle(isLight ? '#000' : '#fff')} className="github" />
