@@ -63,7 +63,7 @@ const Header = () => {
         <div className="logo">
           <Link to="/" replace={pathname === '/'}>
             <LogoIcon />
-            brand
+            4Project
           </Link>
         </div>
         <div>

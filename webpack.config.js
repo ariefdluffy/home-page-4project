@@ -40,6 +40,9 @@ module.exports = {
     mainFiles: ['index'],
     extensions: ['.js', '.mjs', '.jsx', '.json'],
   },
+devServer: {
+  host: '0.0.0.0', allowedHosts: 'all',
+},
   module: {
     rules: [
       {

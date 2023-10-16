@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "React Single Page App template without CRA",
   "main": "src/index.js",
-  "hompage": "https://ofnullable.github.io/react-spa-template",
+  "homepage": "https://ofnullable.github.io/react-spa-template",
   "repository": "https://github.com/ofnullable/react-spa-template",
   "author": "ofnullable <ofnullable@gmail.com>",
   "license": "MIT",
